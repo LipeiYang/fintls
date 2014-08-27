@@ -1,0 +1,1 @@
+java -cp fintls-1.0-SNAPSHOT-jar-with-dependencies.jar com.ylp.app.AppO6 20130513 900 "^HSI"
